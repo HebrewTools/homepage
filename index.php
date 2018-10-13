@@ -46,14 +46,14 @@
 	</style>
 </head>
 <body>
-	<a class="block" href="https://clauses.hebrewtools.org/">
-		<h1>Clause Formatter</h1>
-		<img src="clause-formatter.png"/>
-		<span class="footer">Go!</span>
-	</a>
 	<a class="block" href="https://parse.hebrewtools.org/">
 		<h1>Parse Trainer</h1>
 		<img src="parse-trainer.png"/>
+		<span class="footer">Go!</span>
+	</a>
+	<a class="block" href="https://clauses.hebrewtools.org/">
+		<h1>Clause Formatter</h1>
+		<img src="clause-formatter.png"/>
 		<span class="footer">Go!</span>
 	</a>
 	<a class="block" href="https://reader.hebrewtools.org/">
