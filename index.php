@@ -64,6 +64,7 @@
 
 	<p>Copyright &copy; 2016&ndash;<?=date('Y')?> <a href="https://camilstaps.nl">Camil Staps</a>.</p>
 
-	<p>See <a href="https://github.com/HebrewTools">GitHub</a> for the source code.</p>
+	<p>See <a href="https://github.com/HebrewTools">GitHub</a> for the source code
+		and <a href="https://etcbc.nl/bible/digital-tools-for-the-study-of-biblical-hebrew/">etcbc.nl/bible/digital-tools-for-the-study-of-biblical-hebrew</a> for an overview of the various tools.</p>
 </body>
 </html>
